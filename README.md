@@ -1,0 +1,127 @@
+<html>
+    <head>
+        <title>Madurai_Karthi-Rayar_Network</title>
+        <link rel="icon" href="9943700.png">
+        <link rel="stylesheet" href="rayar.css">
+        <link rel="stylesheet" href="rayar.java">
+    </head>
+<hr>
+<body> 
+    <center>
+        <div class="social-icons">
+
+    <a href="https://www.instagram.com/s_i_v_a_n_05?igsh=aXEyOG5vanA0anV2"
+       target="_blank">
+
+        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"
+             alt="Instagram">
+
+    </a>
+
+    <a href="https://www.facebook.com/share/19MWBiBAck/"
+       target="_blank">
+
+        <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png"
+             alt="Facebook">
+
+    </a>
+
+</div>
+        <h1>வீர பேரரசர் முத்தரையர் சங்கம் _தமிழ்நாடு</h1>
+         <p>பதிவு எண் : 160/2020</p>
+        <hr>
+        
+<img src="99437006877.jpg" alt="99437006877.jpg" width="1300" height="auto">
+<hr>
+        <hr>
+        <h1>தலைவர்-கார்த்திக்_ராயர்</h1>
+        <hr>
+  </center>
+  <center>
+  
+<div class="profile">
+
+    <img src="1000089777.png" alt="கார்த்திக்-ராயர்">
+
+    <div class="profile-text">
+
+        <h2>கார்த்திக்-ராயர்</h2>
+
+        <p>
+            என்பவர் முத்தரையர் (வலையர்) சமூகத்தில் பிறந்தவர். வலையர் நாட்டின் ஒற்றை தலைமையாக இவர் போற்றப்படுகிறார்.
+            இவர் மதுரை அலங்காநல்லூர் அருகே வலசை என்ற கிராமத்தில் 23/04/1991 அன்று பிறந்தவர்.
+            இவர் சமுதாய பணியில் பத்து ஆண்டுகளுக்கும் மேலாக தொடர்ந்து பயணித்து வருகிறார்.
+            இவர் மதுரை ஆணையூரில் மாமன்னர் பெரும்பிடுகு முத்தரையர் சிலை 2022-ஆம் ஆண்டு நிறுவ நடவடிக்கைகள் எடுத்தவர்.
+            வீர பேரரசர் முத்தரையர் முன்னேற்ற சங்கம் (ஆணையூரில்) தொடங்கப்பட்டது.
+            வீர பேரரசர் முத்தரையர் முன்னேற்ற சங்கம் நிறுவனர் & தலைவர் : கார்த்திக்-ராயர்.
+        </p>
+
+    </div>
+
+</div><hr>
+         <hr>
+          <center><img src="ampalakarar.png" alt="ampalakarar.png" width="900"></center>
+          <center><h2>தெய்வ மூப்பனார் & சிவா மூப்பனார்</h2></center>
+
+  </center>
+  <center>
+     <img src="muthuraja007.jpg.jpeg" alt="muthuraja007.jpg.jpeg" width="1200">
+     <p>Welcome! <a href="https://www.instagram.com/karthik.rayer.71?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">Link!</p></a>
+      <h2>தெய்வ மூப்பனார் : </h2> <p>அவர்கள் காரியாபட்டி பகுதியில் மிகுந்த செல்வாக்குமிக்கவர். காரியாபட்டி பகுதிகளில் முத்தரையர் சமூக இளைஞர்களில் மத்தியில் மிகுந்து செல்வாக்கு படைத்தவர் .இவர் வீர பேரரசர் முத்தரையர் முன்னேற்ற சங்கம் தலைவர் : கார்த்திக்-ராயர் அவர்களின் விசுவாசிகளாக கருதப்படுகின்றன</p>
+      <h2>சிவா மூப்பர் :</h2> <p>மதுரை மாவட்டம் பாரபத்தியில் பிறந்தவர் .இவர் வீர பேரரசர் முத்தரையர் முன்னேற்ற மாநில நிர்வாகியாக இருக்கிறார்.இவர் முத்தரையர் சமுதாயத்தில் முக்கிய புள்ளியாக கருதபடுகிறார்.இவர் ராயர் அவர்களின் விசுவாசியாக கருதபடுகிறார்</p>
+    </center>
+        <hr>
+        <hr>
+        <center>
+            <h1>சிங்க கொடி</h1>
+            <img src="ampalam.jpg" width="1200">
+            <p>வீர பேரரசர் முத்தரையர் சங்கத்தின் சிங்க கொடி.
+                இது அரசாங்கத்தால் அங்கீகரிக்க பட்டது .பதிவு என் : 160/2020</p>
+
+        </center>
+    
+    
+<hr>
+
+<hr>
+
+<section class="upload-section">
+
+    <h2>📷 புகைப்படம் பதிவேற்றம்</h2>
+
+    <p>உங்கள் புகைப்படத்தை தேர்வு செய்து Preview பார்க்கலாம்.</p>
+
+    <input type="file" id="imageUpload" accept="image/*">
+
+    <br><br>
+
+    <img id="previewImage" src="" alt="Photo Preview">
+
+</section>
+
+<script>
+const imageUpload = document.getElementById("imageUpload");
+const previewImage = document.getElementById("previewImage");
+
+imageUpload.addEventListener("change", function () {
+
+    const file = this.files[0];
+
+    if(file){
+
+        const reader = new FileReader();
+
+        reader.onload = function(e){
+            previewImage.src = e.target.result;
+            previewImage.style.display = "block";
+        }
+
+        reader.readAsDataURL(file);
+    }
+
+});
+</script>
+
+</body>
+</html></body><hr>
+
